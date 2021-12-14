@@ -1,4 +1,4 @@
-### Hello, I'm Anderson Daniel, Software enginner in training!
+### Hello, I'm Anderson Daniel, Software enginner under construction!
 
 
 

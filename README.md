@@ -2,8 +2,9 @@
 
 
 
-- 🔭 Atualmente trabalhando como Estagiário de desenvolvimento na SMTI
-- 🌱 Estudando Vue.js
+- 🔭 I currently work as a development intern at SMTI
+- 🌱 Studing Vue.js
+- 💻 Learning TypeScript
 ##
 
 <div > <!-- align="center" -->

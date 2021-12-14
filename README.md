@@ -1,4 +1,4 @@
-### Olá! Sou Anderson Daniel, Engenheiro de Software em construção!
+### Hello, I'm Anderson Daniel, Software enginner in training!
 
 
 

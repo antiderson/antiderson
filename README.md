@@ -3,7 +3,7 @@
 
 
 - 🔭 I currently work as a development intern at SMTI
-- 🌱 Studing Vue.js
+- 🌱 studying Vue.js
 - 💻 Learning TypeScript
 ##
 

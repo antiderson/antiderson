@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I currently work as a development intern at SMTI
+- 🔭 I currently work as a development intern at SMTI and Developer Mobile at "Dr.192 "
 - 🌱 studying React.Js ⚛️
 - 💻 Learning TypeScript
 ##

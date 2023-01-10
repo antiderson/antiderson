@@ -7,11 +7,12 @@
 - 💻 Learning TypeScript
 ##
 
-<div > <!-- align="center" -->
+<div align="center" > <!-- align="center" -->
  
   <a href="https://github.com/antiderson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&langs_count=7&theme=dark"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=dark&hide_border=true" />
+  </a> 
 </div>
   
 ##

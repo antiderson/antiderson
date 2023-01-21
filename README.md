@@ -16,7 +16,10 @@
  </a> -->
 
 
-
+<a href="https://github.com/antiderson">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&path" alt="Anurag's github stats" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=dark&hide_border=true&path" />
+   </a> 
 
 
 
@@ -24,10 +27,7 @@
  
 
  
-   <a href="https://github.com/antiderson">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" />
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=dark&hide_border=true" />
-   </a>  
+    
 </div>
   
 ##

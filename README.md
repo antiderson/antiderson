@@ -9,25 +9,28 @@
 <div> <!-- align="center" -->
  
 <!-- <a href="https://github.com/antiderson/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=transparent" />
+ <img src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=dark&hide_border=true&path" />
   <img width="380" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=transparent) /> 
- <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=transparent&langs_count=7" />
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=transparent&langs_count=7)](https://github.com/antiderson/github-readme-stats) 
+ <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+<!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=transparent&langs_count=7)](https://github.com/antiderson/github-readme-stats) 
  </a> -->
+                            
 
 
 <a href="https://github.com/antiderson">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&path" alt="Anurag's github stats" />
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=dark&hide_border=true&path&langs_count=6" />
+ <div align="center" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=dark&hide_border=true&path" alt="Anurag's github stats" />
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+ </div>
    </a> 
+   
+   <!--    <a href="https://github.com/antiderson/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=transparent" />
+  <img width="380" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=transparent) /> 
+ <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=transparent&langs_count=7" />
+<!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=transparent&langs_count=7)](https://github.com/antiderson/github-readme-stats)  -->
+ </a> 
 
-
-
-
- 
-
- 
-    
 </div>
   
 ##

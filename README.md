@@ -34,7 +34,7 @@
 </div>
   
 ##
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Derson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Derson-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Derson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -48,11 +48,11 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/anti.derson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andersondaniel.adfa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-daniel-850a53202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=sbwd0jg8wfuec6i8xyeby5889)
+<!--  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=sbwd0jg8wfuec6i8xyeby5889) -->
 

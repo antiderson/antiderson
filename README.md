@@ -1,35 +1,36 @@
 ### Hello, I'm Anderson Daniel, Software enginner in construction!
 
 
-
+- 👨‍💻 Actualy i'm work as development Full-Stack at Jacad ERP. from SWA enterprise.
 - 🔭 I worked as a development intern at SMTI and mobile developer at "Dr.192 "
 - 🌱 studying React.Js ⚛️
 - 💻 Learning TypeScript
 ##
 <div> <!-- align="center" -->
  
-<!-- <a href="https://github.com/antiderson/github-readme-stats">
+<!--  <a href="https://github.com/antiderson/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=dark&hide_border=true&path" />
   <img width="380" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=transparent) /> 
  <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-<!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=transparent&langs_count=7)](https://github.com/antiderson/github-readme-stats) 
- </a> -->
-                            
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=transparent&langs_count=7)](https://github.com/antiderson/github-readme-stats) 
+ </a>   -->
 
-
+<!--  Removeu o "hide_border=true"  -->
 <a href="https://github.com/antiderson">
  <div align="center" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=dark&hide_border=true&path" alt="Anurag's github stats" />
-  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=dark&path" alt="Anurag's github stats" />
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=dark&langs_count=6" />
  </div>
    </a> 
+ 
+
    
-   <!--    <a href="https://github.com/antiderson/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=transparent" />
+<!--       <a href="https://github.com/antiderson/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=dark&hide_border=true&path" />
   <img width="380" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antiderson&show_icons=true&theme=transparent) /> 
  <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=transparent&langs_count=7" />
-<!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=transparent&langs_count=7)](https://github.com/antiderson/github-readme-stats)  -->
- </a> 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiderson&layout=compact&theme=transparent&langs_count=7)](https://github.com/antiderson/github-readme-stats)  
+ </a>  -->
 
 </div>
   
